@@ -1,0 +1,10 @@
+* Logs update 10/06/2022 *
+- Added knocked enemy health
+- Added accessory item show
+- Remove instant hit 
+- Added enemy aim line , fixed health bar , fixed sometime crash bullet tracking
+* VIETNAMESE * 
+- Add máu địch đã knock
+- Hiện phụ kiện súng 
+- Xóa đạn không rơi 
+- Thêm đường kẻ chỉ địch đang aim , loại bỏ đường viền thanh máu , fix lỗi đơ game khi vào trận ( không cần phải tắt đạn đuổi )
