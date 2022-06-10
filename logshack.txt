@@ -4,7 +4,7 @@
 - Remove instant hit 
 - Added enemy aim line , fixed health bar , fixed sometime crash bullet tracking
 * VIETNAMESE * 
-- Add máu địch đã knock
-- Hiện phụ kiện súng 
-- Xóa đạn không rơi 
-- Thêm đường kẻ chỉ địch đang aim , loại bỏ đường viền thanh máu , fix lỗi đơ game khi vào trận ( không cần phải tắt đạn đuổi )
+- Add mau dich da knock
+- Hien phu kien sung
+- Xoa dan khong roi
+- Them duong ke chi dich dang aim , loai bo duong vien thanh mau , fix loi crash game ( khong can tat dan duoi ) 
